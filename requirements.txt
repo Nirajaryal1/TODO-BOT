@@ -4,3 +4,7 @@ autopep8
 
 # App
 flask
+aiogram==3.13.1
+APScheduler==3.10.4
+pytz==2024.1
+tzdata==2024.1
